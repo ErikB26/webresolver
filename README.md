@@ -1,11 +1,13 @@
 <div align="center">
   <p>
+    <a href="https://webresolver.nl"><img src="https://webresolver.nl/public/images/logo.png" alt="webresolver.nl" /></a>
+  </p>
+  <p>
     <a href="https://nodei.co/npm/webresolver/"><img src="https://nodei.co/npm/webresolver.png alt="npm installnfo" /></a>
   </p>
 </div>
 
 # webresolver
-
 A simple, easy to use node.js module that allows you to interact with the webresolver API.
 
 ## Getting Started
