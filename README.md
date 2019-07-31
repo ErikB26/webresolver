@@ -3,7 +3,7 @@
     <a href="https://webresolver.nl"><img src="https://webresolver.nl/public/images/logo.png" alt="webresolver.nl" /></a>
   </p>
   <p>
-    <a href="https://nodei.co/npm/webresolver/"><img src="https://nodei.co/npm/webresolver.png alt="npm installnfo" /></a>
+    <a href="https://nodei.co/npm/webresolver/"><img src="https://nodei.co/npm/webresolver.png" alt="npm installnfo" /></a>
   </p>
 </div>
 
@@ -40,7 +40,7 @@ Function                                | Description
 **cloudflare(str)**                     | Does a bruteforce on the most common subdomains in order to search for the real IP. <br/> `str` Domain
 **phone(str)**                          | Looks up information about a specific phone number. (Use international phone format). <br/> `str` Phone number
 **screenshot(str)**                     | Creates a screenshot of any website/url. <br/> `str` URL
-**headers(str**                         | Get the website header information from a domain. <br/> `str` Domain
+**headers(str)**                         | Get the website header information from a domain. <br/> `str` Domain
 **whois(str)**                          | Get the registration information from a domain. <br/> `str` URL
 **ping(str)**                           | Shows how long it takes for packets to reach host. <br/> `str` URL
 **portscan(str [, number])**            | Scan a port to check if the port is open or closed on a host. <br/> `str` URL <br/> `[ ,number]` (Optional) Scan one specific port
