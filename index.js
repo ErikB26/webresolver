@@ -1,6 +1,6 @@
 /**
  * @author Erik Brilleman
- * @version 1.0.0
+ * @version 1.0.2
  * @description A simple, easy to use node.js module that allows you to interact with the webresolver API.
  *              Get your API key at https://webresolver.nl/api/plans
  */
