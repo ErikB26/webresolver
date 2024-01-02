@@ -13,7 +13,7 @@
   "bugs": "https://github.com/ErikB26/webresolver/issues",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "validator": "^13.7.0"
   }
 }
